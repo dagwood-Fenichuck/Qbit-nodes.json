@@ -29,6 +29,20 @@
       "cache": false
     },
     {
+      "name": "nodddies.dogRU",
+      "url": "16.18.245.12",
+      "port": 20101,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "merkelsdream.EU",
+      "url": "61.98.15.126",
+      "port": 20101,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Ru.podicus",
       "url": "213.136.80.146",
       "port": "20101",
