@@ -43,6 +43,13 @@
       "cache": false
     },
     {
+      "name": "EU.hyperdyne",
+      "url": "170.119.124.33",
+      "port": 20101,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Ru.podicus",
       "url": "213.136.80.146",
       "port": "20101",
