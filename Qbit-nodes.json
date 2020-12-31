@@ -1,8 +1,8 @@
 {
   "nodes": [
     {
-      "name": "qbitconnect.com",
-      "url": "207.180.194.21",
+      "name": "chain.connectinfo",
+      "url": "qbitconnect.com",
       "port": 20101,
       "ssl": false,
       "cache": false
@@ -49,6 +49,13 @@
       "ssl": false,
       "cache": false
     },
+    {
+      "name": "bugtron.eu",
+      "url": "28.134.218.104",
+      "port": 20101,
+      "ssl": false,
+      "cache": false
+    },        
     {
       "name": "Ru.podicus",
       "url": "213.136.80.146",
